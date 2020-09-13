@@ -1,10 +1,10 @@
 h1 {
-    color: goldenrod;
+    color: lawngreen;
 }
 /* *{border:solid;}
 */
 .header{
-    background-color: whitesmoke;
+    background-color: #9C53DD;
     display: flex;
     justify-content: space-between;
 }
@@ -19,4 +19,7 @@ h1 {
 }
 p,h2{
     text-align: center;
+}
+body{
+    background-color: lemonchiffon;
 }
